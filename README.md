@@ -1,2 +1,2 @@
 # CoderDataScience
-Repos para entregas del curso de Data Science #84650 CoderHouse
+Repo para entregas del curso de Data Science #84650 CoderHouse
